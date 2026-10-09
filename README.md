@@ -1,2 +1,2 @@
 # Actividad-github-Armando
-Repositorio dedicado a la practica 2026 de Git.
+Hola, mi nombre es Armando. Soy estudiante y estoy aprendiendo a utilizar Git y GitHub para gestionar proyectos y conocer el control de versiones.
